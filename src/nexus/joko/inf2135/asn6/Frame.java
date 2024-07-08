@@ -1,12 +1,12 @@
-package nexus.joko.inf2135.asn3;
+package nexus.joko.inf2135.asn6;
 
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-import nexus.joko.inf2135.asn3.model.Mesin;
-import nexus.joko.inf2135.asn3.model.Mobil;
+import nexus.joko.inf2135.asn6.model.Mesin;
+import nexus.joko.inf2135.asn6.model.Mobil;
 
 public class Frame extends javax.swing.JFrame {
 

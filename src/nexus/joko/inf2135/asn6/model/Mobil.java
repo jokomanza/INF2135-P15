@@ -1,4 +1,4 @@
-package nexus.joko.inf2135.asn3.model;
+package nexus.joko.inf2135.asn6.model;
 
 public class Mobil {
 

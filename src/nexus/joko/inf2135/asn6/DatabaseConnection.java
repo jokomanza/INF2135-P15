@@ -1,4 +1,4 @@
-package nexus.joko.inf2135.asn3;
+package nexus.joko.inf2135.asn6;
 
 import java.sql.*;
 
